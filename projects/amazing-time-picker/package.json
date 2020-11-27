@@ -1,11 +1,19 @@
 {
   "name": "amazing-time-picker",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "peerDependencies": {
     "@angular/common": "^11.0.1",
     "@angular/core": "^11.0.1"
   },
   "dependencies": {
     "tslib": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoniJnm/amazing-time-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoniJnm/amazing-time-picker/issues"
+  },
+  "homepage": "https://github.com/JoniJnm/amazing-time-picker#readme"
 }
