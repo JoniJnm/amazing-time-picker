@@ -1,9 +1,9 @@
 {
   "name": "amazing-time-picker",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "peerDependencies": {
-    "@angular/common": "^11.0.1",
-    "@angular/core": "^11.0.1"
+    "@angular/common": "^11.1.2",
+    "@angular/core": "^11.1.2"
   },
   "dependencies": {
     "tslib": "^2.0.0"
